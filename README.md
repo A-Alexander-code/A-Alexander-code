@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-Alexander-code
+- 👋 Hi, I’m @A-Void-Alx
 - 👀 I’m interested in deep learning and machine learning
 - 🌱 I’m currently learning python and R
 - 💞️ I am interested in collaborating on projects that integrate the field of machine learning and artificial intelligence in engineering 
